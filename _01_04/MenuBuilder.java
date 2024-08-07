@@ -3,6 +3,9 @@ package _01_04;
 import java.util.ArrayList;
 
 public class MenuBuilder {
+  /**
+   * @param args
+   */
   public static void main(String[] args) {
 
     // Create a variable called menuTitle of type String and assign it the value "My
